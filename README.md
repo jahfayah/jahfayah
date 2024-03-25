@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jahfayah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...creating games
-- 💞️ I’m looking to collaborate on ...app and game development
+- 👀 I’m interested in ...programing(HTML5,JAVASCRIPT,JAVA,CSS)
+- 🌱 I’m currently learning ...Python,SQL,C#
+- 💞️ I’m looking to collaborate on ... website,application and game development
 - 📫 How to reach me ...jahsiyanda@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...rasta always rule
